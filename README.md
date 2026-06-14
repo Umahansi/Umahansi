@@ -1,17 +1,25 @@
-<h1 align="center">Hi 👋, I'm Umasha Perera</h1>
-<h3 align="center">A passionate software engineer</h3>
+## Umasha Perera — Full-stack software engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umahansi&label=Profile%20views&color=0e75b6&style=flat" alt="umahansi" /> </p>
+I build products end-to-end — from pixel sharp UIs to robust server-side systems. Currently architecting **LEMAS**, a property management platform that rethinks how leasing, estates, and asset operations are handled at scale. I write code that lasts, ship features that matter, and care deeply about the engineering craft behind every product decision.
 
-- 🔭 I’m currently working on [Peerlit](https://github.com/CS-43/peerlit)
+---
 
-- 🌱 I’m currently learning **flutter,java**
+### What I'm building right now
 
-- 📫 How to reach me **umasha2006hansi@gmail.com**
+- **LEMAS Management PMS** — a full-scale property management system covering leasing, estates, and asset tracking, built for real operational complexity
+- Designing scalable React frontends backed by clean Node.js APIs
+- Exploring mobile-first experiences with Flutter
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/umasha-perera-252678325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/umasha-perera-252678325" height="30" width="40" /></a>
-</p>
+### My stack
 
+`React`   `Node.js`   `JavaScript`   `REST APIs`   `Flutter`   `Java`   `Git`
+
+### Philosophy
+
+I believe great software is invisible — it just works, stays out of the way, and solves the right problem. I hold myself to that standard in every line I write.
+
+### Let's connect
+
+- 📧 umasha2006hansi@gmail.com
+- 💼 [linkedin.com/in/umasha-perera-252678325](https://linkedin.com/in/umasha-perera-252678325)
 
