@@ -1,4 +1,4 @@
-## Umasha Perera — Full-stack software engineer
+## Umasha Perera - Full-stack Developer
 
 I build products end-to-end — from pixel sharp UIs to robust server-side systems. Currently architecting **LEMAS**, a property management platform that rethinks how leasing, estates, and asset operations are handled at scale. I write code that lasts, ship features that matter, and care deeply about the engineering craft behind every product decision.
 
