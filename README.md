@@ -12,7 +12,7 @@ I build products end-to-end — from pixel sharp UIs to robust server-side syste
 
 ### My stack
 
-`React`   `Node.js`   `JavaScript`   `REST APIs`   `Flutter`   `Java`   `Git`
+`React`   `Node.js`   `JavaScript`   `REST APIs`   `Flutter`   `Java`   `Git`  `dotnet`
 
 ### Philosophy
 
