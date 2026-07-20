@@ -14,9 +14,6 @@ I build products end-to-end — from pixel sharp UIs to robust server-side syste
 
 `React`   `Node.js`   `JavaScript`   `REST APIs`   `Flutter`   `Java`   `Git`  `dotnet`
 
-### Philosophy
-
-I believe great software is invisible — it just works, stays out of the way, and solves the right problem. I hold myself to that standard in every line I write.
 
 ### Let's connect
 
